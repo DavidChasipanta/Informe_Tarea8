@@ -12,7 +12,10 @@
 
 # **2.MARCO TEÓRICO**
 
-![image](https://user-images.githubusercontent.com/105617383/186319217-a5ddae50-3c80-48a8-b40e-6429abeeb79d.png)
+![image](https://user-images.githubusercontent.com/105617383/186521753-b2e08aad-a828-4931-b7d3-13b600d54901.png)
+![image](https://user-images.githubusercontent.com/105617383/186521781-53d45381-3192-4f3e-9bc4-3d01d155fd75.png)
+![image](https://user-images.githubusercontent.com/105617383/186521800-eaa120c5-f014-4c61-ad5e-89fa15a1e7bf.png)
+![image](https://user-images.githubusercontent.com/105617383/186521825-e62a8687-da54-4380-a10c-81aecb3aa1ec.png)
 
 # **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
