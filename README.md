@@ -18,25 +18,78 @@
 
 SECCIÓN 15–1 El sistema de los números complejos
 
-2. Localice los siguientes números en el plano complejo:
+**2. Localice los siguientes números en el plano complejo:**
 
-4. Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 180° de cada uno de los puntos del problema 3
+**a) +6**  
 
-6. A continuación se describen puntos localizados en el plano complejo. Exprese cada punto como un número complejo en forma rectangular:
+**b) -2**  
+
+**c)+j3**  
+
+**d)-8j**
+
+![image](https://user-images.githubusercontent.com/105617383/186502957-07573cda-6c3b-47d2-a42e-ff338c193d04.png)
+
+**4. Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 180° de cada uno de los puntos del problema 3**
+
+**6. A continuación se describen puntos localizados en el plano complejo. Exprese cada punto como un número complejo en forma rectangular:**
+
 (a) 3 unidades a la derecha del origen sobre el eje real, y 5 unidades hacia arriba sobre el eje j.
+
 (b) 2 unidades a la izquierda del origen sobre el eje real, y 1.5 unidades hacia arriba sobre el eje j.
-(c) 10 unidades a la izquierda del origen sobre el eje real, y 14 unidades hacia abajo sobre el eje j.
 
-8. Convierta cada uno de los siguientes números rectangulares a forma polar:
+(c) 10 unidades a la izquierda del origen sobre el eje real, y 14 unidades hacia abajo sobre el eje -j.
 
-10. Exprese cada uno de los siguientes números polares utilizando un ángulo negativo para reemplazar al
-positivo
+**8. Convierta cada uno de los siguientes números rectangulares a forma polar:**
 
-12. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 10. 
+a) 40 - j40
 
-14. Sume los siguientes conjuntos de números complejos:
+b) 50 - j200
 
-16. Multiplique los siguientes números:
+c) 35 - j20
+
+d) 98 + 45j
+
+**10. Exprese cada uno de los siguientes números polares utilizando un ángulo negativo para reemplazar al positivo**
+
+a) 10 < 120° 
+
+b) 32 < 85° 
+
+c) 5 < 310° 
+
+
+**12. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 10.** 
+
+
+**14. Sume los siguientes conjuntos de números complejos:**
+
+a) 9 + j3 y 5 +j8
+
+b) 3.5 -j4 y 2.2 +j6
+
+c) -18 + j23 y 30 -j15
+
+d) 12 < 45° y 20 < 32°
+
+e) 3.8 < 75° y 4 + j1.8
+
+f) 50 - j39 y 60 < -30°
+
+**16. Multiplique los siguientes números:
+
+
+a) 4.5 < 48° + 3.2 < 90°
+
+b) 120 < -220° y 95 < 200°
+
+c) -3 < 150° y 4 -j3
+
+d) 67 + j84  y 102 < 40°
+
+e) 15 - j10 y -25 -j30
+
+f) 0.8 + j0.5 y 1.2 < -j1.5
 
 18. Realice las siguientes operaciones: 
 
