@@ -35,13 +35,23 @@ SECCIÓN 15–1 El sistema de los números complejos
 
 **4. Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 180° de cada uno de los puntos del problema 3**
 
+![image](https://user-images.githubusercontent.com/105617383/186531965-dc4422d3-8655-483c-b653-868ce2e5700f.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186532278-275c3772-c2b3-45a6-845f-cc5dc66e5e9f.png)
+
 **6. A continuación se describen puntos localizados en el plano complejo. Exprese cada punto como un número complejo en forma rectangular:**
 
 (a) 3 unidades a la derecha del origen sobre el eje real, y 5 unidades hacia arriba sobre el eje j.
 
+![image](https://user-images.githubusercontent.com/105617383/186532434-4a8107a0-94dd-4a6a-954e-659a66804d9c.png)
+
 (b) 2 unidades a la izquierda del origen sobre el eje real, y 1.5 unidades hacia arriba sobre el eje j.
 
+![image](https://user-images.githubusercontent.com/105617383/186532616-f66ef821-fb69-429e-baef-00accb7c7fb4.png)
+
 (c) 10 unidades a la izquierda del origen sobre el eje real, y 14 unidades hacia abajo sobre el eje -j.
+
+![image](https://user-images.githubusercontent.com/105617383/186532743-fb1094f7-0858-4a79-a540-d5fe0f6f8d90.png)
 
 **8. Convierta cada uno de los siguientes números rectangulares a forma polar:**
 
