@@ -105,30 +105,41 @@ SECCIÓN 15–3 Impedancia de circuitos RC en serie
 
 22. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 15-85.
 
+![image](https://user-images.githubusercontent.com/105617383/186517344-83f70389-01a1-4ca9-a4ab-789b02b098e0.png)
 
-24. Repita el problema 23 con C  0.0047 mF. 
+24. Repita el problema 23 con C = 0.0047 uF. 
 
 
 SECCIÓN 15–4 Análisis de circuitos RC en serie
 
 26. Exprese la corriente en forma polar para cada circuito de la figura 15-84. 
 
+![image](https://user-images.githubusercontent.com/105617383/186517570-7bcc1b9e-0edb-4ad7-9a36-0a71102c55b1.png)
 
 28. Determine el ángulo de fase entre el voltaje aplicado y la corriente para cada circuito de la figura 15-85. 
 
-30. Para el circuito de la figura 15-87, trace el diagrama fasorial que muestre todos los voltajes y la corriente total. Indique los ángulos de fase.
+![image](https://user-images.githubusercontent.com/105617383/186517344-83f70389-01a1-4ca9-a4ab-789b02b098e0.png)
 
-32. ¿A qué valor se debe ajustar el reóstato de la figura 15-89 para hacer que la corriente total sea de 10 mA?
-¿Cuál es el ángulo resultant
+30. Para el circuito de la figura 15-87, trace el diagrama fasorial que muestre todos los voltajes y la corriente total. Indique los ángulos de fase.
 
-34. Para el circuito de retraso de la figura 15-91, determine el desplazamiento de fase entre el voltaje de
-entrada y el voltaje de salida para cada una de las siguientes frecuencia.
+![image](https://user-images.githubusercontent.com/105617383/186518165-bcea57db-2f3c-45c5-a946-bebbd5f79324.png)
+
+32. ¿A qué valor se debe ajustar el reóstato de la figura 15-89 para hacer que la corriente total sea de 10 mA? ¿Cuál es el ángulo resultante?
+
+![image](https://user-images.githubusercontent.com/105617383/186518260-0b253737-8466-4206-9e8e-4bc2776d75b8.png)
+
+34. Para el circuito de retraso de la figura 15-91, determine el desplazamiento de fase entre el voltaje de entrada y el voltaje de salida para cada una de las siguientes frecuencia.
+
+![image](https://user-images.githubusercontent.com/105617383/186518305-01ef8276-8aa3-411f-80c2-0aa4ea9f9ea9.png)
 
 36. Repita el problema 34 para el circuito de adelanto de la figura 15-92.
 
-38. Trace el diagrama fasorial de voltaje para el circuito de la figura 15-91 para una frecuencia de 5 kHz
-con Vs  1 V rms.
+![image](https://user-images.githubusercontent.com/105617383/186518416-644d43f3-abb3-41b0-8bdd-a91b7f990a30.png)
 
+38. Trace el diagrama fasorial de voltaje para el circuito de la figura 15-91 para una frecuencia de 5 kHz
+con Vs =1 V rms.
+
+![image](https://user-images.githubusercontent.com/105617383/186518480-9396a450-0426-48ab-a14e-baeeabb1ddcb.png)
 
 PARTE 2: CIRCUITOS EN PARALELO
 
@@ -136,19 +147,22 @@ SECCIÓN 15–5 Impedancia y admitancia de circuitos RC en paralelo
 
 40. Determine la impedancia y exprésela en forma polar para el circuito de la figura 15-93. 
 
+![image](https://user-images.githubusercontent.com/105617383/186518585-8981119f-4252-4f7d-b438-0e807ac77898.png)
+
 42. Repita el problema 41 para las siguientes frecuencias:
 
 SECCIÓN 15–6 Análisis de circuitos RC en paralelo 
 
 
-44. Para el circuito en paralelo de la figura 15-96, encuentre la magnitud de cada corriente de rama y la corriente total. ¿Cuál es el ángulo de fase entre el voltaje aplicado y la corriente total?
+44. Para el circuito en paralelo de la figura 15-96, encuentre la magnitud de cada corriente de rama y la corriente total. ¿Cuál es el ángulo de fase entre el voltaje aplicado y la corriente total?
 
+![image](https://user-images.githubusercontent.com/105617383/186518637-4a99d3aa-b075-43c2-ae09-61925b847091.png)
 
-46. Repita el problema 45 con R  5.6 kÆ, C1  0.047 mF, C2  0.022 mF, y f  500 Hz.
+46. Repita el problema 45 con R = 5.6 kÆ, C1 = 0.047 mF, C2 = 0.022 mF, y f = 500 Hz.
 
-48. Determine el valor al cual R1 debe ser ajustado para obtener un ángulo de fase de 30° entre el voltaje
-de fuente y la corriente total en la figura 15-99.
+48. Determine el valor al cual R1 debe ser ajustado para obtener un ángulo de fase de 30° entre el voltaje de fuente y la corriente total en la figura 15-99.
 
+![image](https://user-images.githubusercontent.com/105617383/186518815-b615bc82-846e-41bc-9ae8-31041dc1f857.png)
 
 PARTE 3: CIRCUITOS EN SERIE-PARALELO
 
@@ -156,14 +170,19 @@ SECCIÓN 15–7 Análisis de circuitos RC en serie-paralelo
 
 50. ¿Es el circuito de la figura 15-100 predominantemente resistivo o predominantemente capacitivo?
 
+![image](https://user-images.githubusercontent.com/105617383/186518918-1b685980-5527-4db2-9872-586b12718e99.png)
+
 52. Para el circuito de la figura 15-101, determine lo siguiente:
 
+![image](https://user-images.githubusercontent.com/105617383/186518984-f5257a06-f175-41ec-904d-9f4675df7c92.png)
 
 54. Determine el voltaje y su ángulo de fase en cada punto rotulado en la figura 15-103. 
 
+![image](https://user-images.githubusercontent.com/105617383/186519028-a27415f8-370d-410a-8fa2-18000ee42494.png)
 
 56. Trace el diagrama fasorial de voltaje y corriente para la figura 15-103. 
 
+![image](https://user-images.githubusercontent.com/105617383/186519067-1e0496c2-deec-42d4-bd47-05832bbc52f5.png)
 
 PARTE 1: CIRCUITOS EN SERIE
 
