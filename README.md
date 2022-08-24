@@ -55,25 +55,44 @@ SECCIÓN 15–1 El sistema de los números complejos
 
 **8. Convierta cada uno de los siguientes números rectangulares a forma polar:**
 
-a) 40 - j40
+**a) 40 - j40**
 
-b) 50 - j200
+![image](https://user-images.githubusercontent.com/105617383/186534318-beb06f8d-6119-4529-947b-f8d10409ad0a.png)
 
-c) 35 - j20
+**b) 50 - j200**
 
-d) 98 + 45j
+![image](https://user-images.githubusercontent.com/105617383/186535101-a8db189e-a632-4897-8916-b468e9bd0db6.png)
+
+**c) 35 - j20**
+
+![image](https://user-images.githubusercontent.com/105617383/186535328-049869ae-1bba-46c3-8f2a-541a696e5a67.png)
+
+**d) 98 + 45j**
+
+![image](https://user-images.githubusercontent.com/105617383/186535499-80b27c26-c546-4014-aec2-0674eef1064d.png)
 
 **10. Exprese cada uno de los siguientes números polares utilizando un ángulo negativo para reemplazar al positivo**
 
-a) 10 < 120° 
+**a) 10 < 120°** 
 
-b) 32 < 85° 
 
-c) 5 < 310° 
 
+**b) 32 < 85°**
+
+**c) 5 < 310°** 
 
 **12. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 10.** 
 
+**a)**
+![image](https://user-images.githubusercontent.com/105617383/186535649-4b7c2b45-f9eb-42a7-823c-b0443228b49d.png)
+
+**b)**
+
+![image](https://user-images.githubusercontent.com/105617383/186535794-e7527e78-995d-41df-a403-1f6037cd7d42.png)
+
+**c)**
+
+![image](https://user-images.githubusercontent.com/105617383/186536665-13994167-dbc8-4490-9262-a9c07391c1a5.png)
 
 **14. Sume los siguientes conjuntos de números complejos:**
 
@@ -106,6 +125,7 @@ f) 0.8 + j0.5 y 1.2 < -j1.5
 
 18. Realice las siguientes operaciones: 
 
+![image](https://user-images.githubusercontent.com/105617383/186538501-17234aa8-63e1-4de7-8293-e1202cff160f.png)
 
 SECCIÓN 15–2 Respuesta sinusoidal de circuitos RC en serie
 
@@ -120,6 +140,14 @@ SECCIÓN 15–3 Impedancia de circuitos RC en serie
 
 ![image](https://user-images.githubusercontent.com/105617383/186517344-83f70389-01a1-4ca9-a4ab-789b02b098e0.png)
 
+**a)**
+
+![image](https://user-images.githubusercontent.com/105617383/186538579-c848b8b8-4b26-4966-be75-60ffa1229cf5.png)
+
+**b)**
+
+![image](https://user-images.githubusercontent.com/105617383/186538612-db781cdd-3243-4dea-9b05-29cd7656a665.png)
+
 24. Repita el problema 23 con C = 0.0047 uF. 
 
 
@@ -129,9 +157,25 @@ SECCIÓN 15–4 Análisis de circuitos RC en serie
 
 ![image](https://user-images.githubusercontent.com/105617383/186517570-7bcc1b9e-0edb-4ad7-9a36-0a71102c55b1.png)
 
+**a)**
+
+![image](https://user-images.githubusercontent.com/105617383/186538741-b76162fe-cd9f-4101-bf0e-46390177577c.png)
+
+**b)**
+
+![image](https://user-images.githubusercontent.com/105617383/186538783-7164ec6c-fdfa-4590-803b-6d4926a6efec.png)
+
 28. Determine el ángulo de fase entre el voltaje aplicado y la corriente para cada circuito de la figura 15-85. 
 
 ![image](https://user-images.githubusercontent.com/105617383/186517344-83f70389-01a1-4ca9-a4ab-789b02b098e0.png)
+
+**a)**
+
+![image](https://user-images.githubusercontent.com/105617383/186538854-b8aeadfe-2a84-48a4-93cc-7f0d2e875d4e.png)
+
+**b)**
+
+![image](https://user-images.githubusercontent.com/105617383/186538871-94fd92fd-efcf-44c9-ac59-299120566412.png)
 
 30. Para el circuito de la figura 15-87, trace el diagrama fasorial que muestre todos los voltajes y la corriente total. Indique los ángulos de fase.
 
