@@ -12,6 +12,7 @@
 
 # **2.MARCO TEÓRICO**
 
+![image](https://user-images.githubusercontent.com/105617383/186319217-a5ddae50-3c80-48a8-b40e-6429abeeb79d.png)
 
 # **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
