@@ -12,6 +12,8 @@
 
 # **2.MARCO TEÓRICO**
 
+![image](https://user-images.githubusercontent.com/105617383/186573344-beeac270-2e3b-45ba-aa23-dc301e671010.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/186521753-b2e08aad-a828-4931-b7d3-13b600d54901.png)
 ![image](https://user-images.githubusercontent.com/105617383/186521781-53d45381-3192-4f3e-9bc4-3d01d155fd75.png)
 ![image](https://user-images.githubusercontent.com/105617383/186521800-eaa120c5-f014-4c61-ad5e-89fa15a1e7bf.png)
@@ -259,31 +261,61 @@ con Vs =1 V rms.
 
 ![image](https://user-images.githubusercontent.com/105617383/186546018-1a53b6f2-a896-4e8d-9ed7-32a6dcefed97.png)
 
+a) Z = 2.5∠72.5° kΩ
+
+R=0.95Ω,Xl=3.01Ω
+
+b) Z = 998∠45° Ω
+
+R=Xl=705.69Ω
+
+c) Z = 20 Ω + j45 Ω
+
+R=20Ω,Xl=45Ω
+
+d) Z = 500∠35° Ω
+
+R=0.57Ω,Xl=0.4Ω
+
 SECCIÓN 16–3 Análisis de circuitos RL en ser
 
 **8. Se aplica un voltaje sinusoidal de 5 V, 10 kHz al circuito de la figura 16-57. Calcule el voltaje a través de la resistencia total encontrada en el problema 7.**
  
 ![image](https://user-images.githubusercontent.com/105617383/186546053-d29bcc0f-4eb8-4cac-8134-4c693f0989d9.png)
 
+![image](https://user-images.githubusercontent.com/105617383/186573715-4d24aecf-69f6-4948-aecc-0b7c4ad0e499.png)
+
 **10. Exprese la corriente en forma polar para cada circuito de la figura 16-54**
 
 ![image](https://user-images.githubusercontent.com/105617383/186546090-79329d8c-f23d-4f69-b34d-b2a54e6c2ec3.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186573749-9d886de1-efa1-4168-9ab7-ec88ae34c9a2.png)
 
 **12. Determine u para el circuito de la figura 16-58.** 
 
 ![image](https://user-images.githubusercontent.com/105617383/186546125-2bdf2328-eb3f-4052-a20d-35eb5d7f24d9.png)
 
+![image](https://user-images.githubusercontent.com/105617383/186573775-468ddd50-74dd-4af6-841a-a6e49bd9b33e.png)
+
 **14. Trace las formas de onda de Vs, VR y VL en la figura 16-58. Muestre las relaciones de fase apropiadas.**
 
 ![image](https://user-images.githubusercontent.com/105617383/186546147-d2d49ead-8af9-4e14-88ed-bbf55c2ba8d8.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186573803-81fcd415-c7a6-4e01-aae3-bbcbd1a0d553.png)
 
 **16. Determine la magnitud y el ángulo de fase del voltaje de fuente en la figura 1**
 
 ![image](https://user-images.githubusercontent.com/105617383/186546199-305e4a29-c73b-4f59-9321-8ff8b705da77.png)
 
+![image](https://user-images.githubusercontent.com/105617383/186573828-919a8fd4-c670-431f-9436-5cecfb844d1f.png)
+
 **18. Repita el problema 17 para el circuito de adelanto para encontrar el adelanto de fase en la figura 16-62.**
 
 ![image](https://user-images.githubusercontent.com/105617383/186546228-c0a63ffb-a5d9-4b48-b13a-5a44b0350f9c.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186573860-cbe48aa7-0973-4bc6-88cf-908125d91faa.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186573879-b96663c6-d4f0-4b9e-9a2f-e34b07b79df3.png)
 
 **PARTE 2 CIRCUITOS EN PARALELO**
 
@@ -291,11 +323,21 @@ SECCIÓN 16–3 Análisis de circuitos RL en ser
 
 **20. Repita el problema 19 para las siguientes frecuencias:**
 
+![image](https://user-images.githubusercontent.com/105617383/186573932-145d2af6-a1f6-4b84-adac-d91373ad432a.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186573959-ff213269-3ea1-48ed-8da8-89b6801986f4.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186573989-b5448d18-d442-491b-a039-327123b1d9b7.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186574003-44e15d07-aede-4a39-b1b4-20a4f74c4438.png)
+
 **SECCIÓN 16–5 Análisis de circuitos RL en paralelo**
 
 **22. Encuentre la corriente total y cada corriente de rama en la figura 16-64**
 
 ![image](https://user-images.githubusercontent.com/105617383/186546313-4de548e9-c204-4ef1-b390-6deeff999ec0.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186574017-80382626-c368-41e3-aed8-1ff4fb91d9a5.png)
 
 **24. Repita el problema 23 para R = 56 Æ y L = 330**
 
@@ -333,6 +375,8 @@ SECCIÓN 16–3 Análisis de circuitos RL en ser
 
 ![image](https://user-images.githubusercontent.com/105617383/186547218-c3f1687c-b6fb-45af-8d7e-74559b957ba3.png)
 
+![image](https://user-images.githubusercontent.com/105617383/186568677-18e6616e-b9f8-4066-bacb-6a9a6800c556.png)
+
 **40. Determine la potencia verdadera para el circuito de la figura 16-70.**
 
 ![image](https://user-images.githubusercontent.com/105617383/186547276-abaa241a-038a-4275-bc03-721431bafaf8.png)
@@ -342,6 +386,8 @@ SECCIÓN 16–3 Análisis de circuitos RL en ser
 **42. Con el mismo procedimiento del problema 41, trace la curva de respuesta para la figura 16-62**
 
 ![image](https://user-images.githubusercontent.com/105617383/186547546-df0da1a3-6445-4700-b4a1-61e12e377fe4.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186568459-1cbc86b6-587d-4684-8ee6-45b8709a3c39.png)
 
 **SECCIÓN 16–9 Localización de fallas**
 
