@@ -12,7 +12,8 @@
 
 # **2.MARCO TEÓRICO**
 
-![image](https://user-images.githubusercontent.com/105617383/186573344-beeac270-2e3b-45ba-aa23-dc301e671010.png)
+![image](https://user-images.githubusercontent.com/105617383/186574641-1ff52494-50b9-455c-ae97-edea8797314e.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/186574279-bf0ea2a5-48ad-4af4-be88-c6787080f55d.png)
 ![image](https://user-images.githubusercontent.com/105617383/186574300-a72b7c9e-0acf-4640-b524-01d81cb94f84.png)
 ![image](https://user-images.githubusercontent.com/105617383/186574316-9f533232-30b5-451f-8217-a0594e96a5b6.png)
@@ -401,7 +402,7 @@ SECCIÓN 16–3 Análisis de circuitos RL en ser
 
 # **4.VIDEO**
 
-
+https://youtu.be/xkfMXwBiMIU
 
 # **5. CONCLUSIONES**
 
