@@ -13,6 +13,9 @@
 # **2.MARCO TEÓRICO**
 
 ![image](https://user-images.githubusercontent.com/105617383/186573344-beeac270-2e3b-45ba-aa23-dc301e671010.png)
+![image](https://user-images.githubusercontent.com/105617383/186574279-bf0ea2a5-48ad-4af4-be88-c6787080f55d.png)
+![image](https://user-images.githubusercontent.com/105617383/186574300-a72b7c9e-0acf-4640-b524-01d81cb94f84.png)
+![image](https://user-images.githubusercontent.com/105617383/186574316-9f533232-30b5-451f-8217-a0594e96a5b6.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/186521753-b2e08aad-a828-4931-b7d3-13b600d54901.png)
 ![image](https://user-images.githubusercontent.com/105617383/186521781-53d45381-3192-4f3e-9bc4-3d01d155fd75.png)
