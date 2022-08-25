@@ -82,11 +82,11 @@ SECCIÓN 15–1 El sistema de los números complejos
 
 **a) 10 < 120°** 
 
-
-
 **b) 32 < 85°**
 
 **c) 5 < 310°** 
+
+![image](https://user-images.githubusercontent.com/105617383/186577241-791517d6-6eea-48b5-9aad-60d66456cea6.png)
 
 **12. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 10.** 
 
@@ -115,7 +115,10 @@ e) 3.8 < 75° y 4 + j1.8
 
 f) 50 - j39 y 60 < -30°
 
-**16. Multiplique los siguientes números:
+![image](https://user-images.githubusercontent.com/105617383/186577420-6d27b4fb-4acf-41c0-9231-37463d08054c.png)
+![image](https://user-images.githubusercontent.com/105617383/186577435-bc5443f2-e6ba-4cf4-baae-51259f3b4dd2.png)
+
+**16. Multiplique los siguientes números:**
 
 
 a) 4.5 < 48° + 3.2 < 90°
@@ -129,6 +132,10 @@ d) 67 + j84  y 102 < 40°
 e) 15 - j10 y -25 -j30
 
 f) 0.8 + j0.5 y 1.2 < -j1.5
+
+![image](https://user-images.githubusercontent.com/105617383/186577452-b772851b-5333-4ac2-8026-5b32c95ecc19.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186577471-db4be124-4a2c-4d20-9a48-6b121b70c491.png)
 
 **18. Realice las siguientes operaciones:**
 
@@ -157,6 +164,11 @@ f) 0.8 + j0.5 y 1.2 < -j1.5
 
 **24. Repita el problema 23 con C = 0.0047 uF.**
 
+![image](https://user-images.githubusercontent.com/105617383/186577599-40d3545c-55ca-4216-97f0-1093ce2c0c6e.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186577618-80834cba-566d-45e0-9d41-96b802dd2887.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186577632-71a7b228-fb60-438e-948a-2b9d72214568.png)
 
 **SECCIÓN 15–4 Análisis de circuitos RC en serie**
 
@@ -188,22 +200,32 @@ f) 0.8 + j0.5 y 1.2 < -j1.5
 
 ![image](https://user-images.githubusercontent.com/105617383/186518165-bcea57db-2f3c-45c5-a946-bebbd5f79324.png)
 
+![image](https://user-images.githubusercontent.com/105617383/186577788-4c4a56ac-838e-45e6-9bda-b8039cfbfe9a.png)
+
 **32. ¿A qué valor se debe ajustar el reóstato de la figura 15-89 para hacer que la corriente total sea de 10 mA? ¿Cuál es el ángulo resultante?**
 
 ![image](https://user-images.githubusercontent.com/105617383/186518260-0b253737-8466-4206-9e8e-4bc2776d75b8.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186577820-51bb2fd5-43bc-4f78-8e7a-7cd2157b9ae0.png)
 
 **34. Para el circuito de retraso de la figura 15-91, determine el desplazamiento de fase entre el voltaje de entrada y el voltaje de salida para cada una de las siguientes frecuencia.**
 
 ![image](https://user-images.githubusercontent.com/105617383/186518305-01ef8276-8aa3-411f-80c2-0aa4ea9f9ea9.png)
 
+![image](https://user-images.githubusercontent.com/105617383/186577838-27b1a7ad-a343-443a-aa98-d17f463ef2b3.png)
+
 **36. Repita el problema 34 para el circuito de adelanto de la figura 15-92.**
 
 ![image](https://user-images.githubusercontent.com/105617383/186518416-644d43f3-abb3-41b0-8bdd-a91b7f990a30.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186577863-e687ef44-7458-40df-8cfb-2ded5d532d04.png)
 
 **38. Trace el diagrama fasorial de voltaje para el circuito de la figura 15-91 para una frecuencia de 5 kHz**
 con Vs =1 V rms.
 
 ![image](https://user-images.githubusercontent.com/105617383/186518480-9396a450-0426-48ab-a14e-baeeabb1ddcb.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186577923-d0d7d6ee-2ad7-4f4c-957b-78f452b63973.png)
 
 **PARTE 2: CIRCUITOS EN PARALELO**
 
@@ -213,7 +235,13 @@ con Vs =1 V rms.
 
 ![image](https://user-images.githubusercontent.com/105617383/186518585-8981119f-4252-4f7d-b438-0e807ac77898.png)
 
+![image](https://user-images.githubusercontent.com/105617383/186577956-a1a77ada-f20d-40be-976d-9f03cd1aa989.png)
+
 **42. Repita el problema 41 para las siguientes frecuencias:**
+
+![image](https://user-images.githubusercontent.com/105617383/186577983-8efb48f4-9567-4ebd-8ce2-0d26f34b353c.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186577994-1ceb6d67-aac9-4d37-9543-54691a8c5caa.png)
 
 **SECCIÓN 15–6 Análisis de circuitos RC en paralelo** 
 
@@ -222,11 +250,17 @@ con Vs =1 V rms.
 
 ![image](https://user-images.githubusercontent.com/105617383/186518637-4a99d3aa-b075-43c2-ae09-61925b847091.png)
 
+![image](https://user-images.githubusercontent.com/105617383/186578017-09cd5a3b-1223-4cc4-9783-7d1b580a7448.png)
+
 **46. Repita el problema 45 con R = 5.6 kÆ, C1 = 0.047 mF, C2 = 0.022 mF, y f = 500 Hz.**
+
+![image](https://user-images.githubusercontent.com/105617383/186578050-5fc9b37d-0272-46da-8dab-5afc57449fa0.png)
 
 **48. Determine el valor al cual R1 debe ser ajustado para obtener un ángulo de fase de 30° entre el voltaje de fuente y la corriente total en la figura 15-99.**
 
 ![image](https://user-images.githubusercontent.com/105617383/186518815-b615bc82-846e-41bc-9ae8-31041dc1f857.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186578077-a2801e2b-fba1-480f-b042-01aef6f99295.png)
 
 **PARTE 3: CIRCUITOS EN SERIE-PARALELO**
 
@@ -236,17 +270,25 @@ con Vs =1 V rms.
 
 ![image](https://user-images.githubusercontent.com/105617383/186518918-1b685980-5527-4db2-9872-586b12718e99.png)
 
+![image](https://user-images.githubusercontent.com/105617383/186578105-3cfd2577-40cc-4505-ac58-11a36086b078.png)
+
 **52. Para el circuito de la figura 15-101, determine lo siguiente:**
 
 ![image](https://user-images.githubusercontent.com/105617383/186518984-f5257a06-f175-41ec-904d-9f4675df7c92.png)
+![image](https://user-images.githubusercontent.com/105617383/186578121-4f3054a7-84ec-4574-8955-66ee245cb431.png)
+![image](https://user-images.githubusercontent.com/105617383/186578136-43fa07da-6340-466b-9546-13f73ac5cb55.png)
+![image](https://user-images.githubusercontent.com/105617383/186578153-b7aea250-afed-48e7-932b-3f87f50ee779.png)
 
 **54. Determine el voltaje y su ángulo de fase en cada punto rotulado en la figura 15-103.** 
 
 ![image](https://user-images.githubusercontent.com/105617383/186519028-a27415f8-370d-410a-8fa2-18000ee42494.png)
+![image](https://user-images.githubusercontent.com/105617383/186578168-5e642b2e-763f-4f83-b30c-20585c2bfae0.png)
+![image](https://user-images.githubusercontent.com/105617383/186578182-c2c10fd5-7347-4a22-a497-3449c7fe5acb.png)
 
 **56. Trace el diagrama fasorial de voltaje y corriente para la figura 15-103.** 
 
 ![image](https://user-images.githubusercontent.com/105617383/186519067-1e0496c2-deec-42d4-bd47-05832bbc52f5.png)
+![image](https://user-images.githubusercontent.com/105617383/186578201-36323521-ea27-485b-aae4-8eee24608cc7.png)
 
 **PARTE 1: CIRCUITOS EN SERIE**
 
@@ -255,12 +297,15 @@ con Vs =1 V rms.
 
 **2. ¿Cuáles son las formas de onda de I, VR y VL en el problema 1?**
 
+I, VR y VL, son ondas de forma sinusoidal
+
 
 **SECCIÓN 16–2 Impedancia de circuitos RL en serie**
 
 **4. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 16-55. Trace los diagramas de impedancia.**
 
 ![image](https://user-images.githubusercontent.com/105617383/186545944-e9544f43-fef5-434a-b731-c11e4977cf4d.png)
+![image](https://user-images.githubusercontent.com/105617383/186578456-7cc87813-800f-40ef-9da7-1add0d031df6.png)
 
 **6. Determine los valores de R y XL en un circuito RL en serie con los siguientes valores de impedancia total:**
 
